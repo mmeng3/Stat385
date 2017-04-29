@@ -41,7 +41,7 @@ clean.df = Actor1 %>%
   mutate(Title = as.character(cleanString(Title))) %>%
   separate(Keywords, into = paste("Keyword", 1:5, sep = ""), sep = "\\|")
 
-write.csv(clean.df, file = "best_movie.csv")
+
 # Calculate sentiment score
 Test.Keyword <- clean.df[c(4:8)];
 SScore = integer();
@@ -50,20 +50,32 @@ for (i in 1:dim(Test.Keyword)[1]){
   SScore[i] = sum(calculate_score(Test.Keyword[i,]))
 }
 
+# Add Sentiment Score to Clean.df
+clean.df = clean.df %>%
+  mutate(SentimentScore = SScore)
 
+write.csv(clean.df, file = "best_movie.csv")
 
 
 # Movies with rating >= 7.0
 test_df = Actor1 %>%
-  select(Actor = actor_1_name, Rating = imdb_score, Title = movie_title, Keywords = plot_keywords, Year = title_year, Gross = gross) %>%
+  select(Actor = actor_1_name, Score = imdb_score, Title = movie_title, Keywords = plot_keywords, Year = title_year, Gross = gross) %>%
   group_by(Actor) %>%
   filter(Score >= 7) %>%
   mutate(Title = as.character(cleanString(Title))) %>%
   separate(Keywords, into = paste("Keyword", 1:5, sep = ""), sep = "\\|")
 
+Test.Keyword1 <- test_df[c(4:8)];
+SScore1 = integer();
+
+for (i in 1:dim(Test.Keyword1)[1]){
+  SScore1[i] = sum(calculate_score(Test.Keyword1[i,]))
+}
+
+test_df = test_df %>%
+  mutate(SentimentScore = SScore1)
+
 write.csv(test_df, file = "Good_Movies.csv")
-
-
 
 
 TopDir <- read.csv(file = "top_director.csv", header = TRUE);

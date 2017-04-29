@@ -1,324 +1,324 @@
-"","Actor","Score","Title","Keyword1","Keyword2","Keyword3","Keyword4","Keyword5","Year","Gross"
-"1","Johnny Depp",7.1,"Pirates of the Caribbean: At World's End","goddess","marriage ceremony","marriage proposal","pirate","singapore",2007,309404152
-"2","Johnny Depp",7.3,"Pirates of the Caribbean: Dead Man's Chest","box office hit","giant squid","heart","liar's dice","monster",2006,423032628
-"3","Leonardo DiCaprio",7.7,"Titanic","artist","love","ship","titanic","wet",1997,658672302
-"4","Robert Downey Jr.",8.2,"Captain America: Civil War","based on comic book","knife","marvel cinematic universe","returning character killed off","superhero",2016,407197282
-"5","J.K. Simmons",7.3,"Spider-Man 2","death","doctor","scientist","super villain","tentacle",2004,373377893
-"6","Robert Downey Jr.",7.2,"Iron Man 3","armor","explosion","human bomb","missile attack","terrorist",2013,408992272
-"7","Steve Buscemi",7.3,"Monsters University","cheating","fraternity","monster","singing in a car","university",2013,268488329
-"8","Tom Hanks",8.3,"Toy Story 3","college","day care","escape","teddy bear","toy",2010,414984497
-"9","Jason Statham",7.2,"Furious 7","car falling off a cliff","hospital","revenge","star died before release","terrorist",2015,350034110
-"10","Leonardo DiCaprio",7.3,"The Great Gatsby","ingratitude","mansion","party","title appears in writing","tragedy",2013,144812796
-"11","Christian Bale",9,"The Dark Knight","based on comic book","dc comics","psychopath","star died before release","urban setting",2008,533316061
-"12","Robert Downey Jr.",7.9,"Iron Man","afghanistan","billionaire","inventor","playboy","u.s. air force",2008,318298180
-"13","Tom Cruise",7.9,"Edge of Tomorrow","alien","combat","dying repeatedly","end of the world","time loop",2014,100189501
-"14","Scarlett Johansson",7.8,"The Jungle Book","fire","jungle","remake","tiger","wolf",2016,362645141
-"15","Robert Downey Jr.",7,"Iron Man 2","hammer","military","monaco","revenge","tony stark",2010,312057433
-"16","Scarlett Johansson",7.8,"Captain America: The Winter Soldier","conspiracy","heroism","megalomaniac","super soldier","world domination",2014,259746958
-"17","Gerard Butler",8.2,"How to Train Your Dragon","dragon","island","training","viking","village",2010,217387997
-"18","Matthew McConaughey",8.6,"Interstellar","black hole","father daughter relationship","saving the world","space travel","wormhole",2014,187991439
-"19","Leonardo DiCaprio",8.8,"Inception","ambiguous ending","corporate espionage","dream","subconscious","thief",2010,292568851
-"20","Christian Bale",8.3,"Batman Begins","armored car","gangster","gotham","mixed martial arts","social decay",2005,205343774
-"21","Tom Cruise",7.4,"Mission: Impossible - Rogue Nation","capture","computer hacker","mission","rogue agent","spy",2015,195000874
-"22","J.K. Simmons",7.2,"Kung Fu Panda 3","china","kung fu","panda","pig","village",2016,143523463
-"23","Tom Cruise",7.4,"Mission: Impossible - Ghost Protocol","dubai","kremlin","race against time","russian","terrorist",2011,209364921
-"24","Hugh Jackman",7.3,"Rise of the Guardians","belief","box office hit","children","new york city","tooth",2012,103400692
-"25","Tom Cruise",7.7,"The Last Samurai","captain","emperor","honor","japan","samurai",2003,111110575
-"26","J.K. Simmons",7.3,"Spider-Man","evil","goblin","spider","spider man","superhero",2002,403706375
-"27","Gerard Butler",7.9,"How to Train Your Dragon 2","dragon","father son relationship","husband wife relationship","mother son relationship","viking",2014,176997107
-"28","Leonardo DiCaprio",8.1,"The Revenant","bear attack","cauterizing a wound","native american","revenge","survival",2015,183635922
-"29","Johnny Depp",7.2,"Rango","chameleon","lizard","sheriff","water","western town",2011,123207194
-"30","Matt Damon",8.1,"The Bourne Ultimatum","action hero","cia","dark past","flashback","memory",2007,227137090
-"31","J.K. Simmons",7.3,"Megamind","battle","city","planet","prison","superhero",2010,148337537
-"32","Johnny Depp",8.1,"Pirates of the Caribbean: The Curse of the Black Pearl","caribbean","curse","governor","pirate","undead",2003,305388685
-"33","Hugh Jackman",7.5,"X-Men 2","mutant","prison","professor","school","x men",2003,214948780
-"34","Robert Downey Jr.",7.5,"Sherlock Holmes: A Game of Shadows","factory","gypsy","investigation","sherlock holmes","train",2011,186830669
-"35","Matt Damon",7.1,"Jason Bourne","black ops","chase","cia","cia agent","repeated scene",2016,108521835
-"36","Morgan Freeman",7,"Oblivion","cabin in the woods","drone","flying through a thunderstorm","post apocalypse","sex in a pool",2013,89021735
-"37","Steve Buscemi",8.1,"Monsters, Inc.","friend","little girl","monster","rival","scream",2001,289907418
-"38","Leonardo DiCaprio",7.5,"The Aviator","1920s","aviation","fight","spruce goose","test flight",2004,102608827
-"39","Hugh Jackman",7.1,"Real Steel","arena","boxing","boxing movie","robot","robot battle",2011,85463309
-"40","Bruce Willis",7.2,"Live Free or Die Hard","fbi","hacker","independence day","police","terrorist",2007,134520804
-"41","Liam Neeson",7.2,"Kingdom of Heaven","12th century","crusader","jerusalem","knight","medieval times",2005,47396698
-"42","Matt Damon",8.1,"The Martian","astronaut","international cooperation","left for dead","nasa","space habitat",2015,228430993
-"43","Tom Cruise",7.7,"Minority Report","future","murder","neo noir","washington d.c.","year 2054",2002,132014112
-"44","Johnny Depp",7,"Public Enemies","1930s","bank","celebrity criminal","fbi","public enemy number one",2009,97030725
-"45","Denzel Washington",7.8,"American Gangster","death","heroin","popcorn","smuggling","vietnam",2007,130127620
-"46","Leonardo DiCaprio",8.5,"Django Unchained","dynamite","historically inaccurate","ku klux klan","n word","slavery",2012,162804648
-"47","Leonardo DiCaprio",8,"Blood Diamond","diamond","elephant","fisherman","rebel","sierra leone",2006,57366262
-"48","Leonardo DiCaprio",8.2,"The Wolf of Wall Street","based on true story","fellatio","female rear nudity","sex in an airplane","stockbroker",2013,116866727
-"49","Tom Hanks",7.5,"Cloud Atlas","composer","future","letter","nonlinear timeline","nursing home",2012,27098580
-"50","Leonardo DiCaprio",7.5,"Gangs of New York","butcher","civil war","gangster","new york city","revenge",2002,77679638
-"51","Christian Bale",7.6,"The Flowers of War","abusive stepfather","attempted rape","food shortage","sexual abuse","starving child",2011,9213
-"52","Tom Hanks",7.9,"Toy Story 2","collector","dog","friend","rescue","toy",1999,245823397
-"53","Leonardo DiCaprio",8.5,"The Departed","boston","mole","police","undercover","undercover cop",2006,132373442
-"54","Robert Downey Jr.",7,"Tropic Thunder","film director","parody","spoof","vietnam","written and directed by cast member",2008,110416702
-"55","Bruce Willis",7.6,"Die Hard with a Vengeance","bomb","detective","new york city","police","terrorist",1995,100012500
-"56","Robert Downey Jr.",7.6,"Sherlock Holmes","black magic","bridge construction","professor moriarty","scotland yard inspector","sherlock holmes",2009,209019489
-"57","Tom Cruise",7.1,"Valkyrie","american actor playing foreigner","assassination","conspiracy","military","nazis",2008,83077470
-"58","Matthew McConaughey",7.4,"Contact","message from outer space","religion","religion versus science","scientist","universe",1997,100853835
-"59","Tom Hanks",7.7,"Cast Away","christmas","island","love","survival","talking to inanimate object",2000,233630478
-"60","Matt Damon",7.8,"The Bourne Supremacy","assassin","car chase","cia","hidden truth","one against many",2004,176049130
-"61","Steve Buscemi",7.1,"Hotel Transylvania","dracula","hotel","invisible man","monster","transylvania",2012,148313048
-"62","Anthony Hopkins",7.1,"Meet Joe Black","birthday","death","death personified","fear of death","wealth",1998,44606335
-"63","Robert Downey Jr.",7.7,"Zodiac","cartoonist","reporter","serial killer","zodiac","zodiac killer",2007,33048353
-"64","Tom Cruise",7.1,"Mission: Impossible","disguise","mission","spy","stealing","traitor",1996,180965237
-"65","Leonardo DiCaprio",8.1,"Shutter Island","female prisoner","plot twist","self delusion","surprise ending","year 1954",2010,127968405
-"66","Nicolas Cage",7.3,"Face/Off","death of child","face","face transplant","prison","terrorist",1997,112225777
-"67","Tom Hanks",7.7,"Road to Perdition","1930s","blood","gun","on the run","revenge",2002,104054514
-"68","Philip Seymour Hoffman",7.2,"Cold Mountain","civil war","mountain","soldier","well","wounded soldier",2003,95632614
-"69","Matt Damon",7,"Spirit: Stallion of the Cimarron","cavalry","escape","herd","stallion","wild stallion",2002,73215310
-"70","Robin Williams",7,"What Dreams May Come","heaven","hell","soul","soul mate","suicide",1998,55350897
-"71","Philip Seymour Hoffman",7.2,"Red Dragon","criminal profile","fbi agent","madman","tabloid reporter","tragic villain",2002,92930005
-"72","Hugh Jackman",7.4,"X-Men","first part","mutant","professor","superhero","superhero team",2000,157299717
-"73","Nicolas Cage",7.4,"The Rock","alcatraz","fbi","general","hostage","rocket",1996,134006721
-"74","Morgan Freeman",7.3,"Now You See Me","bank","fbi","heist","interpol","magician",2013,117698894
-"75","Tom Hanks",7.3,"The Terminal","airport","construction site","fish out of water","flight attendant","man without a country",2004,77032279
-"76","Philip Seymour Hoffman",7.1,"Charlie Wilson's War","afghanistan","arms dealer","based on true story","cia","texas",2007,66636385
-"77","Bruce Willis",7.1,"Die Hard 2","airport","fuel","plane","police","terrorist",1990,117541000
-"78","Steve Buscemi",8,"Big Fish","dog saved from a fire","flashback","growing up","multiple narrators","traveling salesman",2003,66257002
-"79","Leonardo DiCaprio",7.1,"Body of Lies","cia","jordan","middle east","spy","terrorist",2008,39380442
-"80","Tom Hanks",8.6,"Saving Private Ryan","army","invasion","killed in action","normandy","soldier",1998,216119491
-"81","Keanu Reeves",8.7,"The Matrix","artificial reality","computer","matrix","questioning reality","simulated reality",1999,171383253
-"82","Tom Hanks",7.6,"Apollo 13","cape kennedy","news footage","reference to christopher columbus","rocket","trapped in space",1995,172071312
-"83","Hugh Jackman",7.6,"Les Misí©rables","barricade","innkeeper","parole","rebellion","student",2012,148775460
-"84","Tom Cruise",7.3,"Eyes Wide Shut","doctor","orgy","party","pianist","sexual fantasy",1999,55637680
-"85","Matthew McConaughey",7.1,"We Are Marshall","coach","football","football team","marshall university","university",2006,43532294
-"86","Gerard Butler",7.7,"300","battle","epic","greece","spartan","warrior",2006,210592590
-"87","Tom Hanks",8.5,"The Green Mile","1930s","death row inmate","healing","prison guard","southern u.s.",1999,136801374
-"88","Matt Damon",7.9,"The Bourne Identity","amnesia","assassin","money","political thriller","three word title",2002,121468960
-"89","Jason Statham",7,"The Italian Job","gold","heist","revenge","traffic jam","venice italy",2003,106126012
-"90","Bruce Willis",7.1,"RED","cia","female assassin","interrogation","office cubicle","spy",2010,90356857
-"91","Tom Cruise",7.6,"Collateral","city by night","contract killer","driving at night","los angeles california","taxi",2004,100003492
-"92","Tom Cruise",7,"Jack Reacher","coma","mysterious villain","police chase","shooting range","sniper",2012,80033643
-"93","Denzel Washington",7.7,"Man on Fire","bodyguard","journalist","kidnapping","mexico","police corruption",2004,77862546
-"94","Morgan Freeman",7.8,"The Lego Movie","based on toy","dual personality","evil businessman","good cop bad cop","lego",2014,257756197
-"95","Matt Damon",7.4,"Invictus","apartheid","nation","nelson mandela","president","rugby",2009,37479778
-"96","Philip Seymour Hoffman",7.9,"Almost Famous","band","magazine","rolling stone magazine","smoking marijuana","tour",2000,32522352
-"97","Keanu Reeves",7.5,"The Devil's Advocate","deal with the devil","lawyer","money","reality","supernatural power",1997,60984028
-"98","Tom Hanks",8.8,"Forrest Gump","amputee","love","vietnam","vietnam war","war hero",1994,329691196
-"99","Robert De Niro",7,"Meet the Parents","cat","cia","jewish","male nurse","nurse",2000,166225040
-"100","Tom Hanks",7.9,"Captain Phillips","hijacking","hostage","leader","ship","somalia",2013,107100855
-"101","Denzel Washington",7.2,"The Equalizer","assassin","ex soldier","gangster","hanged man","mysterious past",2014,101530738
-"102","Denzel Washington",7.3,"Crimson Tide","alabama","mutiny","order","radio","submarine",1995,91400000
-"103","Robert De Niro",7.3,"Ronin","case","ex kgb","ronin","russian","suitcase",1998,41609593
-"104","Gerard Butler",7.4,"The Phantom of the Opera","based on stage musical based on novel","disfigurement","mask","opera","singer",2004,51225796
-"105","Johnny Depp",7,"Black Mass","based on true story","boston massachusetts","fbi agent","gangster","true crime",2015,62563543
-"106","Gerard Butler",7.4,"Law Abiding Citizen","attorney","deal","district attorney","investigation","justice",2009,73343413
-"107","Leonardo DiCaprio",8,"Catch Me If You Can","attorney","cat and mouse","fbi","pan am","pilot",2002,164435221
-"108","Robert De Niro",8.2,"Casino","car bomb","card cheat","cash","casino","gambling syndicate",1995,42438300
-"109","Matt Damon",7.1,"The Adjustment Bureau","love at first sight","obscene finger gesture","rain","teleportation","three word title",2011,62453315
-"110","Tom Cruise",7.3,"Jerry Maguire","agent","career","client","fiance","sports agent",1996,153620822
-"111","Denzel Washington",7.6,"Inside Man","bank","detective","negotiation","police","robber",2006,88504640
-"112","Scarlett Johansson",7.1,"We Bought a Zoo","blocked road","father son relationship","love at first sight","teenage boy","zookeeper",2011,75621915
-"113","Philip Seymour Hoffman",7.6,"Moneyball","baseball","meeting","statistics","strategy","voice over",2011,75605492
-"114","Liam Neeson",7,"Non-Stop","air marshal","death","passenger","terrorist","transatlantic flight",2014,91439400
-"115","Matt Damon",7,"Syriana","cia","hezbollah","lebanon","oil","prince",2005,50815288
-"116","Kevin Spacey",7.3,"The Negotiator","hostage","innocence","murder","negotiator","police",1998,44484065
-"117","Robert Downey Jr.",7.4,"The Judge","courtroom","dysfunctional family","indiana","lawyer","trial",2014,47105085
-"118","Bill Murray",7.3,"The Life Aquatic with Steve Zissou","expedition","oceanographer","sea","shark","team",2004,24006726
-"119","Kevin Spacey",7.5,"The Life of David Gale","activist","death","death row","murder","texas",2003,19593740
-"120","Philip Seymour Hoffman",7.4,"Pirate Radio","inspired by radio program","inspired by true events","pirate broadcasting","pirate radio","pirate radio station",2009,7994115
-"121","Harrison Ford",8.3,"Indiana Jones and the Last Crusade","castle","diary","holy grail","map","nazi",1989,197171806
-"122","Kevin Spacey",7.4,"K-PAX","extraterrestrial","hospital","patient","planet","science",2001,50173190
-"123","Christian Bale",7.8,"3:10 to Yuma","outlaw","rancher","small western town","stagecoach","train",2007,53574088
-"124","Morgan Freeman",7.4,"The Bucket List","billionaire","friend","hospital","list","mechanic",2007,93452056
-"125","Hugh Jackman",8.1,"Prisoners","child abduction","detective","investigation","police","sex offender",2013,60962878
-"126","Denzel Washington",7.7,"Training Day","lapd","narc","narcotics","title spoken by character","training",2001,76261036
-"127","Kevin Spacey",7.2,"A Bug's Life","ant","circus","grasshopper","misunderstanding","overhearing",1998,162792677
-"128","Leonardo DiCaprio",7.3,"Revolutionary Road","based on novel","children","connecticut","suburb","work",2008,22877808
-"129","Anthony Hopkins",7.1,"Nixon","courtship","election","paranoia","president","quaker",1995,13560960
-"130","Harrison Ford",7.8,"The Fugitive","hospital","on the run","one armed man","surgeon","u.s. marshal",1993,183875760
-"131","Robert De Niro",7.5,"Sleepers","boy","guard","kicked in the crotch","prank","sexual abuse",1996,53300852
-"132","Morgan Freeman",7,"Unleashed","collar","dog","fight","fighting","piano",2005,24520892
-"133","Nicolas Cage",7.6,"Lord of War","1980s","arms dealer","immorality","ukrainian","warlord",2005,24127895
-"134","Bruce Willis",8.1,"The Sixth Sense","able to see the dead","ghost","plot twist","psychic","surprise ending",1999,293501675
-"135","Kevin Spacey",7.4,"A Time to Kill","african american","court","law","mississippi","trial",1996,108706165
-"136","Tom Hanks",7.2,"A League of Their Own","baseball","friend","oregon","rivalry","softball",1992,107458785
-"137","Keanu Reeves",7.5,"Bram Stoker's Dracula","dracula","horror movie remake","maze","monster sex","vampire",1992,82522790
-"138","Harrison Ford",7.5,"42","baseball","baseball player","brooklyn dodgers","major league baseball","racism",2013,95001343
-"139","Philip Seymour Hoffman",7.3,"The Talented Mr. Ripley","1950s","italy","mistaken identity","nudity","sociopath",1999,81292135
-"140","Robert De Niro",7.2,"The Intern","reference to ben affleck","reference to brad pitt","reference to george clooney","reference to jack nicholson","website",2015,75274748
-"141","J.K. Simmons",7.1,"I Love You, Man","bromance","friend","gay brother","homosexual subtext","wedding",2009,71347010
-"142","Tom Hanks",7.6,"Bridge of Spies","cia","cold war","lawyer","negotiation","spy",2015,72306065
-"143","Matthew McConaughey",7.3,"The Lincoln Lawyer","defense attorney","defense lawyer","lawyer","plot twist","prostitute",2011,57981889
-"144","Christian Bale",8.5,"The Prestige","illusion","magician","obsession","rivalry","secret",2006,53082743
-"145","Matt Damon",7.1,"The Rainmaker","courtroom","domestic violence","insurance company","lawyer","underdog",1997,45856732
-"146","Anthony Hopkins",7.2,"Amistad","courtroom","mutiny","ship","slave ship","slave trade",1997,44175394
-"147","Kevin Spacey",7.2,"Pay It Forward","alcoholism","boy","good deed","protective male","teacher",2000,33508922
-"148","Robert De Niro",7.4,"Mean Streets","bar","catholic guilt","epilepsy","italian american","money",1973,32645
-"149","Bill Murray",7.8,"Fantastic Mr. Fox","cider","farm","farmer","fox","tale",2009,20999103
-"150","Denzel Washington",7.6,"The Hurricane","african american","book","boxer","boxing","murder",1999,50668906
-"151","Sylvester Stallone",7.7,"Creed","boxing","boxing match","fight","montage","philadelphia",2015,109712885
-"152","J.K. Simmons",7,"Burn After Reading","cia","divorce","embassy","gym","memoir",2008,60338891
-"153","Denzel Washington",7,"John Q","health care","heart transplant","hospital","hostage","insurance",2002,71026631
-"154","Matt Damon",7.7,"True Grit","arkansas","murder","sheriff","texas ranger","u.s. marshal",2010,171031347
-"155","Robert De Niro",7.3,"Cape Fear","lawyer","neo noir","prison","rapist","southern gothic",1991,79100000
-"156","Kevin Spacey",8.3,"L.A. Confidential","1950s","call girl","corruption","murder","police detective",1997,64604977
-"157","Johnny Depp",7.5,"A Nightmare on Elm Street","freddy krueger","lucid dream","serial killer","slasher","sleep deprivation",1984,26505000
-"158","Tom Hanks",7.5,"Saving Mr. Banks","author","disney","loss of father","reference to walt disney","suppression of emotion",2013,83299761
-"159","Denzel Washington",7.7,"Malcolm X","african american","black history","civil rights","ku klux klan","nation of islam",1992,48169908
-"160","Johnny Depp",7.8,"Donnie Brasco","fbi","mafia","money","racial slur","singer",1997,41954997
-"161","Robert Downey Jr.",7.4,"Wonder Boys","based on novel","college girl","midlife crisis","pittsburgh pennsylvania","professor",2000,19389454
-"162","Hugh Jackman",7.3,"The Fountain","eternity","love","mayan","tree","tree of life",2006,10139254
-"163","Tom Cruise",7.6,"A Few Good Men","cuba","guantanamo","lance corporal","lawyer","murder",1992,141340178
-"164","Harrison Ford",8.4,"Star Wars: Episode VI - Return of the Jedi","death star","emperor","empire","princess","rebel",1983,309125409
-"165","Bill Murray",7,"Scrooged","christmas","compassion","executive","ghost","redemption",1988,60328558
-"166","Robert De Niro",7.2,"Men of Honor","african american","amputee","navy","racial discrimination","racism",2000,48814909
-"167","Harrison Ford",8.5,"Apocalypse Now","army","green beret","insanity","jungle","vietnam",1979,78800000
-"168","Denzel Washington",7.3,"Flight","airline","flight","flight attendant","lawyer","pilot",2012,93749203
-"169","Bill Murray",8.1,"The Grand Budapest Hotel","first person narration","hotel","lobby boy","mentor protege relationship","painting",2014,59073773
-"170","Tom Hanks",8.3,"Toy Story","claw crane","cowboy","jealousy","rivalry","toy",1995,191796233
-"171","Keanu Reeves",7.2,"Speed","bomb","bus","elevator","explosive","rescue",1994,121248145
-"172","Morgan Freeman",8.6,"Se7en","detective","police partner","serial killer","serial murder","seven deadly sins",1995,100125340
-"173","Scarlett Johansson",7,"The SpongeBob SquarePants Movie","based on tv series","crown","dream","king neptune","plankton",2004,85416609
-"174","Anthony Hopkins",7.5,"Legends of the Fall","epic","heart","killing an animal","passion","usa",1994,66528842
-"175","J.K. Simmons",7.4,"Up in the Air","airport","business trip","downsizing","on the road","travel",2009,83813460
-"176","Johnny Depp",7.6,"Blow","1960s","1970s","california","cocaine","wealth",2001,52937130
-"177","Gerard Butler",7.1,"P.S. I Love You","birthday","friendship","hairy chest","letter","widow",2007,53680848
-"178","Johnny Depp",7.4,"Corpse Bride","arranged marriage","bride","corpse","groom","woods",2005,53337608
-"179","Harrison Ford",7.2,"The Age of Adaline","hit by a pickup truck","immortality","paramedic","resuscitation","san francisco california",2015,42478175
-"180","Will Ferrell",7.6,"Stranger Than Fiction","author","fate","novelist","professor","writer",2006,40137776
-"181","Robert De Niro",7.6,"Midnight Run","accountant","bounty hunter","fbi","mafia","mob",1988,38413606
-"182","Morgan Freeman",7,"An Unfinished Life","abusive boyfriend","bear","car accident","ranch","wyoming",2005,8535575
-"183","Denzel Washington",7.9,"Glory","army","black soldier","military uniform","prejudice","u.s. civil war",1989,26830000
-"184","Robert De Niro",8.4,"Once Upon a Time in America","1920s","ambiguity","childhood friend","new york","speakeasy",1984,5300000
-"185","Denzel Washington",7.5,"Cry Freedom","activist","editor","journalist","newspaper","south africa",1987,5899797
-"186","Robin Williams",8,"Aladdin","arab","genie","magic","princess","reference to a thousand and one nights",1992,217350219
-"187","Harrison Ford",7.6,"Indiana Jones and the Temple of Doom","children","studio logo segues into film","temple","village","white dinner jacket",1984,179870271
-"188","Bill Murray",7.6,"The Royal Tenenbaums","brother brother relationship","family relationships","father daughter relationship","genius","thrown through a window",2001,52353636
-"189","Harrison Ford",8.2,"Blade Runner","artificial intelligence","human android relationship","megacorporation","police detective","tech noir",1982,27000000
-"190","Scarlett Johansson",7.8,"The Jungle Book","fire","jungle","remake","tiger","wolf",2016,362645141
-"191","Bruce Willis",7.8,"Lucky Number Slevin","coroner","death","gay son","love","mistaken identity",2006,22494487
-"192","Tom Cruise",8,"Rain Man","buick","convertible","last will and testament","savant","travel",1988,172825435
-"193","Liam Neeson",7.9,"Taken","agent","cia","france","rescue","teenage abduction",2008,145000989
-"194","Liam Neeson",8.9,"Schindler's List","german","german soldier","jew","jewish","nazi",1993,96067179
-"195","Robert De Niro",7.9,"The Untouchables","corrupt judge","tax evasion","tough cop","white suit","year 1930",1987,76270454
-"196","Johnny Depp",7.8,"Finding Neverland","boy","inspiration","reference to peter pan","stage play","widow",2004,51676606
-"197","Robert De Niro",8.7,"Goodfellas","betrayal","gangster","mafia","organized crime","robbery",1990,46836394
-"198","Robin Williams",7.5,"August Rush","baby","cellist","genius","prodigy","rhapsody",2007,31655091
-"199","Morgan Freeman",9.3,"The Shawshank Redemption","escape from prison","first person narration","prison","prison cell search","wrongful imprisonment",1994,28341469
-"200","Hugh Jackman",7.5,"Eddie the Eagle","1988 winter olympics","coach","ski jumper","winter","winter olympics",2016,15785632
-"201","Anthony Hopkins",7.9,"The World's Fastest Indian","mortgage","motorcycle","speed","trailer","utah",2005,5128124
-"202","Keanu Reeves",7.7,"Dangerous Liaisons","catholic","corruption","emotional abuse","france","seduction",1988,34700000
-"203","Sylvester Stallone",7.2,"Rocky Balboa","boxing","fight","heavyweight champion","restaurant","retired boxer",2006,70269171
-"204","Will Ferrell",7.2,"Old School","college","fraternity","friend","house","party",2003,74608545
-"205","Christian Bale",8.2,"Howl's Moving Castle","anime","castle","demon","steampunk","witch",2004,4710455
-"206","Harrison Ford",8.8,"Star Wars: Episode V - The Empire Strikes Back","duel","famous twist","rebel","rescue","snowy landscape",1980,290158751
-"207","Scarlett Johansson",8,"Her","divorce","female frontal nudity","future","loneliness","operating system",2013,25556065
-"208","Hugh Jackman",7.5,"Eddie the Eagle","1988 winter olympics","coach","ski jumper","winter","winter olympics",2016,15785632
-"209","Anthony Hopkins",7.4,"Shadowlands","author","book","england","friend","oxford",1993,25842000
-"210","Harrison Ford",8.5,"Raiders of the Lost Ark","archeological dig","archeologist","ark of the covenant","egypt","nazi",1981,242374454
-"211","Anthony Hopkins",8.6,"The Silence of the Lambs","case file","fbi agent","psycho thriller","psychopath","serial killer",1991,130727000
-"212","Johnny Depp",7.9,"Edward Scissorhands","creation","inventor","magical realism","scissors","suburb",1990,56362352
-"213","Philip Seymour Hoffman",7.5,"Doubt","boy","catholic","nun","priest","student",2008,33422556
-"214","Jason Statham",7.3,"The Bank Job","chase","heist","london england","mobster","safe deposit",2008,30028592
-"215","Robert De Niro",7.2,"Everybody's Fine","bus trip","parental love","retirement","surprise visit","train ride",2009,8855646
-"216","Robert Downey Jr.",7.1,"A Scanner Darkly","detective","drugs","substance d","undercover","undercover cop",2006,5480996
-"217","Gerard Butler",7.2,"Chasing Mavericks","box office flop","no opening credits","surfing","two word title","year 1987",2012,6002756
-"218","Christian Bale",7,"I'm Not There.","1960s","actor","horseback riding","reporter","riding the rails",2007,4001121
-"219","Philip Seymour Hoffman",7.5,"Synecdoche, New York","actress","director","play","theatre director","warehouse",2008,3081925
-"220","Christian Bale",7.5,"Equilibrium","cleric","dystopia","fascist","law","neo noir",2002,1190018
-"221","Liam Neeson",7,"The Bounty","lieutenant","lifeboat","mutiny","sailing ship","ship",1984,8600000
-"222","Nicolas Cage",7.7,"Adaptation.","book","orchid","screenwriter","thief","twin",2002,22245861
-"223","Johnny Depp",7.7,"Fear and Loathing in Las Vegas","american dream","convertible","drugs","journalist","lawyer",1998,10562387
-"224","Tom Hanks",7.3,"Big","friend","job","new york city","toy","wish",1988,114968774
-"225","Will Ferrell",7,"Austin Powers: International Man of Mystery","cartoon on tv","reference to frankenstein","reference to jimi hendrix","scene during end credits","surrealism",1997,53868030
-"226","Denzel Washington",7.9,"Glory","army","black soldier","military uniform","prejudice","u.s. civil war",1989,26830000
-"227","Robert De Niro",8.3,"Raging Bull","boxing","domestic violence","hot temper","jealousy","rage",1980,45250
-"228","Johnny Depp",7.9,"Ed Wood","1950s","director","friend","friendship","transvestism",1994,5887457
-"229","Robin Williams",8,"Dead Poets Society","education","english teacher","poet","professor","student",1989,95860116
-"230","Bruce Willis",7.8,"Moonrise Kingdom","1960s","boy scouts","boy scouts camp","coming of age","young love",2012,45507053
-"231","Scarlett Johansson",7.2,"Vicky Cristina Barcelona","art","artist","painter","sex","summer",2008,23213577
-"232","Denzel Washington",7.7,"Philadelphia","aids","city name in title","gay","homophobia","lawyer",1993,77324422
-"233","Bill Murray",7.4,"Tootsie","actor","actress","friend","love","reputation",1982,177200000
-"234","Kevin Spacey",8.4,"American Beauty","domestic violence","drug dealer","homosexuality","midlife crisis","unfaithfulness",1999,130058047
-"235","Christian Bale",7.3,"Little Women","civil war","female protagonist","post civil war","reference to friedrich schiller","u.s. civil war",1994,50003300
-"236","Robert De Niro",7.1,"Wag the Dog","death","election","hollywood","president","scandal",1997,43022524
-"237","Denzel Washington",7.6,"The Great Debaters","college","debate","student","texas","wiley college",2007,30226144
-"238","Scarlett Johansson",7.7,"Match Point","extramarital affair","infidelity","irony of fate","surprise ending","tennis",2005,23089926
-"239","Anthony Hopkins",7.9,"The Remains of the Day","butler","housekeeper","manor","servant","service",1993,22954968
-"240","Robert De Niro",8,"Brazil","black comedy","bureaucracy","dream","terrorist","wrongful arrest",1985,9929000
-"241","Philip Seymour Hoffman",8.2,"The Big Lebowski","death","drug","nihilism","rug","white russian",1998,17439163
-"242","Robert Downey Jr.",7.6,"Kiss Kiss Bang Bang","actor","detective sergeant","hotel","nightclub","thief",2005,4235837
-"243","Bill Murray",8.1,"Groundhog Day","cult film","existentialism","groundhog day","time loop","trapped in a time loop",1993,70906973
-"244","Tom Cruise",7.2,"Born on the Fourth of July","desert","drunkenness","religious mother","strict mother","vietnam war",1989,70001698
-"245","Keanu Reeves",7.7,"Dangerous Liaisons","catholic","corruption","emotional abuse","france","seduction",1988,34700000
-"246","Anthony Hopkins",7,"Bobby","campaign","chess","friend","hotel","senator",2006,11204499
-"247","Robin Williams",7.3,"Good Morning, Vietnam","disc jockey","friendship","radio","vietnam","vietnamese",1987,123922370
-"248","Robert De Niro",9,"The Godfather: Part II","1950s","corrupt politician","lake tahoe nevada","melancholy","revenge",1974,57300000
-"249","Bill Murray",7.3,"St. Vincent","bullying","grumpy old man","school presentation","stroke","stroke recovery",2014,44134898
-"250","Steve Buscemi",7.3,"Paris, je t'aime","baby","divorce","oscar wilde","pigalle","tourist",2006,4857376
-"251","Denzel Washington",7.3,"Antwone Fisher","black american","extortion","navy","psychiatrist","sailor",2002,21078145
-"252","Kevin Spacey",7.8,"Glengarry Glen Ross","office","pressure","real estate","robbery","sales",1992,10725228
-"253","Harrison Ford",7.4,"Witness","amish","love","murder","police","train",1985,65500000
-"254","Robert De Niro",7.5,"Jackie Brown","arms dealer","atf","bail","money","multiple perspectives",1997,39647595
-"255","Matt Damon",7.4,"Rounders","breasts","cult film","loan shark","poker","reference to christy turlington",1998,22905674
-"256","Jason Statham",7,"Crank","assassin","cult film","doctor","heart","poison",2006,27829874
-"257","Scarlett Johansson",7,"Girl with a Pearl Earring","17th century","girl","maid","painter","painting",2003,11634362
-"258","Robert Downey Jr.",7,"Charlie Bartlett","drugs","high school","prescription drugs","private school","student",2007,3950294
-"259","Jason Statham",8.3,"Snatch","boxer","boxing","diamond","fight","gypsy",2000,30093107
-"260","Harrison Ford",8.7,"Star Wars: Episode IV - A New Hope","death star","empire","galactic war","princess","rebellion",1977,460935665
-"261","Christian Bale",7.9,"The Fighter","boxer","boxing","boxing match","crack cocaine","lowell massachusetts",2010,93571803
-"262","Matthew McConaughey",7.3,"Frailty","demon","fbi","fbi agent","murder","religious fanatic",2001,13103828
-"263","Liam Neeson",7.1,"Kinsey","professor","research","sex","sexuality","student",2004,10214647
-"264","Johnny Depp",7.8,"What's Eating Gilbert Grape","apostrophe in title","face slap","four word title","grocery store","police",1993,9170214
-"265","Robin Williams",8.3,"Good Will Hunting","friend","genius","janitor","loss of wife","professor",1997,138339411
-"266","Tom Cruise",7,"The Color of Money","hustler","losing","pool","pool player","tournament",1986,52293982
-"267","Jason Statham",8.3,"Snatch","boxer","boxing","diamond","fight","gypsy",2000,30093107
-"268","Matt Damon",7.4,"Dogma","abortion","abortion clinic","angel","church","clinic",1999,30651422
-"269","Tom Cruise",7.2,"The Outsiders","dysfunctional family","gang","greaser","holding someone's head underwater","rivalry",1983,25600000
-"270","Bill Murray",7.7,"Rushmore","coming of age","friendship","private school","student","teacher",1998,17096053
-"271","Matthew McConaughey",7.4,"Mud","14 year old","boat","bounty hunter","boy","river",2012,21589307
-"272","Christian Bale",7.3,"Rescue Dawn","bombing","guard","jungle","laos","prisoner",2006,5484375
-"273","Philip Seymour Hoffman",7.2,"Owning Mahowny","bank","bank fraud","bank manager","gambling","toronto",2003,1011054
-"274","Robert Downey Jr.",7.5,"Richard III","1930s","abuse of power","england","king","murder",1995,2600000
-"275","Philip Seymour Hoffman",7.2,"The Savages","arizona","dementia","married man","sun city arizona","writing",2007,6610326
-"276","Christian Bale",7,"Velvet Goldmine","1970s","glitter","political cover up","reference to katharine hepburn","reference to spencer tracy",1998,1043487
-"277","Bruce Willis",8.9,"Pulp Fiction","black comedy","cunnilingus","neo noir","nonlinear timeline","postmodern",1994,107930000
-"278","Keanu Reeves",7.4,"Much Ado About Nothing","16th century","bachelor","dishonor","masquerade party","wedding",1993,22551000
-"279","Matt Damon",7,"Syriana","cia","hezbollah","lebanon","oil","prince",2005,50815288
-"280","Christian Bale",7.6,"American Psycho","1980s","business card","male rear nudity","materialism","narcissism",2000,15047419
-"281","Anthony Hopkins",7.5,"Howards End","england","friendship","prejudice","upper class","working class",1992,25967000
-"282","Morgan Freeman",7.4,"Driving Miss Daisy","1950s","african american","jewish","old age","widow",1989,106593296
-"283","J.K. Simmons",7.6,"Thank You for Smoking","cigarette smoking","lobbyist","political satire","reporter","tobacco industry",2005,24792061
-"284","Keanu Reeves",7,"The Neon Demon","beauty","cannibalism","fashion","lesbian","model",2016,1330827
-"285","J.K. Simmons",7.5,"Juno","adoption","baby","friend","pregnancy","school",2007,143492840
-"286","Leonardo DiCaprio",7.3,"The Great Gatsby","ingratitude","mansion","party","title appears in writing","tragedy",2013,144812796
-"287","Robert Downey Jr.",7.5,"Good Night, and Good Luck.","cbs","expose","fear","paranoia","reporter",2005,31501218
-"288","Philip Seymour Hoffman",7.4,"Capote","book","holcomb kansas","kansas","killer","truman capote",2005,28747570
-"289","Bill Murray",7.5,"Michael Jordan to the Max","basketball","basketball player","character name in title","chicago bulls","imax",2000,18642318
-"290","Bill Murray",7.1,"Get Low","funeral","funeral home","hermit","party","secret",2009,9176553
-"291","Steve Buscemi",7.2,"The Messenger","captain","casualty notification","casualty notification team","sergeant","staff sergeant",2009,66637
-"292","Johnny Depp",8.1,"Platoon","1960s","famous score","hero","vietnam","vietnam war",1986,137963328
-"293","Bill Murray",7.4,"Caddyshack","caddy","country club","golf course","gopher","nudity",1980,39800000
-"294","Kevin Spacey",8.6,"The Usual Suspects","criminal","dirty cop","flashback","limping","suspect",1995,23272306
-"295","J.K. Simmons",7.1,"The Words","american in paris","book","love","novel","writer",2012,11434867
-"296","Scarlett Johansson",7.4,"Ghost World","art class","diner","friend","graduation","high school",2001,6200756
-"297","Matthew McConaughey",8,"Dallas Buyers Club","drugs","fda","gay community","hiv","homophobia",2013,27296514
-"298","Matthew McConaughey",7.6,"Lone Star","father son relationship","interracial relationship","neo western","sheriff","texas",1996,13269963
-"299","Kevin Spacey",7.9,"Moon","computer","contract","earth","moon","solitude",2009,5009677
-"300","Christian Bale",7.7,"The Machinist","alienation","conscience","insomnia","paranoia","urban gothic",2004,1082044
-"301","Gerard Butler",7.8,"Dear Frankie","boy","dock","letter","seaside","stranger",2004,1340891
-"302","Philip Seymour Hoffman",7.7,"25th Hour","bar","dream","drug dealing","nightclub","widower",2002,13060843
-"303","Scarlett Johansson",7.8,"Lost in Translation","fish out of water","japanese","loneliness","older man younger woman relationship","unlikely friendship",2003,44566004
-"304","Nicolas Cage",7.6,"Leaving Las Vegas","alcoholic","bar","love","prostitute","sex",1995,31968347
-"305","Morgan Freeman",7.6,"March of the Penguins","chick","emperor penguin","journey","ocean","penguin",2005,77413017
-"306","Kevin Spacey",7.1,"Margin Call","capital management","financial crisis","financial disaster","investment fraud","management",2011,5354039
-"307","J.K. Simmons",8.5,"Whiplash","conservatory","drummer","emotional abuse","music school","obsession",2014,13092000
-"308","Matthew McConaughey",7.1,"Thirteen Conversations About One Thing","attorney","happiness","house cleaner","physics","professor",2001,3287435
-"309","Philip Seymour Hoffman",7.8,"Happiness","ensemble cast","episodic structure","satire","social satire","suburb",1998,3000000
-"310","Keanu Reeves",7.1,"My Own Private Idaho","friend","hustler","italy","narcolepsy","traveling",1991,6401336
-"311","Matt Damon",8.3,"Inside Job","florida","iceland","interview","new york city new york","recession",2010,4311834
-"312","J.K. Simmons",7,"Harsh Times","blood splatter","friend","lapd","mexican","violence",2005,3335839
-"313","Robin Williams",7,"House of D","artist","butchery","catholic","catholic school","friend",2004,371081
-"314","Keanu Reeves",7.1,"River's Edge","death","friend","high school","murder","police",1986,4600000
-"315","Johnny Depp",7.5,"A Nightmare on Elm Street","freddy krueger","lucid dream","serial killer","slasher","sleep deprivation",1984,26505000
-"316","Tom Cruise",7,"Jack Reacher","coma","mysterious villain","police chase","shooting range","sniper",2012,80033643
-"317","Jason Statham",8.2,"Lock, Stock and Two Smoking Barrels","antique","cockney accent","hatchet","money","shotgun",1998,3650677
-"318","Steve Buscemi",7.2,"Trees Lounge","alcoholic drink","bar","drink","drinking","drunk",1996,695229
-"319","Bruce Willis",7.8,"Lucky Number Slevin","coroner","death","gay son","love","mistaken identity",2006,22494487
-"320","Sylvester Stallone",8.1,"Rocky","boxer","hometown hero","philadelphia pennsylvania","protective male","training",1976,117235247
-"321","J.K. Simmons",7.5,"Juno","adoption","baby","friend","pregnancy","school",2007,143492840
-"322","Harrison Ford",7.5,"American Graffiti","california","car","drag racing","high school","rock 'n' roll",1973,115000000
-"323","Matt Damon",7.3,"Chasing Amy","comic book","friendship","gay","lesbian","secret",1997,12006514
+"","Actor","Score","Title","Keyword1","Keyword2","Keyword3","Keyword4","Keyword5","Year","Gross","SentimentScore"
+"1","Johnny Depp",7.1,"Pirates of the Caribbean: At World's End","goddess","marriage ceremony","marriage proposal","pirate","singapore",2007,309404152,0
+"2","Johnny Depp",7.3,"Pirates of the Caribbean: Dead Man's Chest","box office hit","giant squid","heart","liar's dice","monster",2006,423032628,-2
+"3","Leonardo DiCaprio",7.7,"Titanic","artist","love","ship","titanic","wet",1997,658672302,1
+"4","Robert Downey Jr.",8.2,"Captain America: Civil War","based on comic book","knife","marvel cinematic universe","returning character killed off","superhero",2016,407197282,-1
+"5","J.K. Simmons",7.3,"Spider-Man 2","death","doctor","scientist","super villain","tentacle",2004,373377893,0
+"6","Robert Downey Jr.",7.2,"Iron Man 3","armor","explosion","human bomb","missile attack","terrorist",2013,408992272,-2
+"7","Steve Buscemi",7.3,"Monsters University","cheating","fraternity","monster","singing in a car","university",2013,268488329,-2
+"8","Tom Hanks",8.3,"Toy Story 3","college","day care","escape","teddy bear","toy",2010,414984497,0
+"9","Jason Statham",7.2,"Furious 7","car falling off a cliff","hospital","revenge","star died before release","terrorist",2015,350034110,-3
+"10","Leonardo DiCaprio",7.3,"The Great Gatsby","ingratitude","mansion","party","title appears in writing","tragedy",2013,144812796,-2
+"11","Christian Bale",9,"The Dark Knight","based on comic book","dc comics","psychopath","star died before release","urban setting",2008,533316061,-1
+"12","Robert Downey Jr.",7.9,"Iron Man","afghanistan","billionaire","inventor","playboy","u.s. air force",2008,318298180,0
+"13","Tom Cruise",7.9,"Edge of Tomorrow","alien","combat","dying repeatedly","end of the world","time loop",2014,100189501,-1
+"14","Scarlett Johansson",7.8,"The Jungle Book","fire","jungle","remake","tiger","wolf",2016,362645141,0
+"15","Robert Downey Jr.",7,"Iron Man 2","hammer","military","monaco","revenge","tony stark",2010,312057433,-2
+"16","Scarlett Johansson",7.8,"Captain America: The Winter Soldier","conspiracy","heroism","megalomaniac","super soldier","world domination",2014,259746958,0
+"17","Gerard Butler",8.2,"How to Train Your Dragon","dragon","island","training","viking","village",2010,217387997,0
+"18","Matthew McConaughey",8.6,"Interstellar","black hole","father daughter relationship","saving the world","space travel","wormhole",2014,187991439,0
+"19","Leonardo DiCaprio",8.8,"Inception","ambiguous ending","corporate espionage","dream","subconscious","thief",2010,292568851,-1
+"20","Christian Bale",8.3,"Batman Begins","armored car","gangster","gotham","mixed martial arts","social decay",2005,205343774,-2
+"21","Tom Cruise",7.4,"Mission: Impossible - Rogue Nation","capture","computer hacker","mission","rogue agent","spy",2015,195000874,-1
+"22","J.K. Simmons",7.2,"Kung Fu Panda 3","china","kung fu","panda","pig","village",2016,143523463,-1
+"23","Tom Cruise",7.4,"Mission: Impossible - Ghost Protocol","dubai","kremlin","race against time","russian","terrorist",2011,209364921,0
+"24","Hugh Jackman",7.3,"Rise of the Guardians","belief","box office hit","children","new york city","tooth",2012,103400692,0
+"25","Tom Cruise",7.7,"The Last Samurai","captain","emperor","honor","japan","samurai",2003,111110575,1
+"26","J.K. Simmons",7.3,"Spider-Man","evil","goblin","spider","spider man","superhero",2002,403706375,-1
+"27","Gerard Butler",7.9,"How to Train Your Dragon 2","dragon","father son relationship","husband wife relationship","mother son relationship","viking",2014,176997107,0
+"28","Leonardo DiCaprio",8.1,"The Revenant","bear attack","cauterizing a wound","native american","revenge","survival",2015,183635922,-3
+"29","Johnny Depp",7.2,"Rango","chameleon","lizard","sheriff","water","western town",2011,123207194,0
+"30","Matt Damon",8.1,"The Bourne Ultimatum","action hero","cia","dark past","flashback","memory",2007,227137090,0
+"31","J.K. Simmons",7.3,"Megamind","battle","city","planet","prison","superhero",2010,148337537,-1
+"32","Johnny Depp",8.1,"Pirates of the Caribbean: The Curse of the Black Pearl","caribbean","curse","governor","pirate","undead",2003,305388685,-1
+"33","Hugh Jackman",7.5,"X-Men 2","mutant","prison","professor","school","x men",2003,214948780,-1
+"34","Robert Downey Jr.",7.5,"Sherlock Holmes: A Game of Shadows","factory","gypsy","investigation","sherlock holmes","train",2011,186830669,0
+"35","Matt Damon",7.1,"Jason Bourne","black ops","chase","cia","cia agent","repeated scene",2016,108521835,0
+"36","Morgan Freeman",7,"Oblivion","cabin in the woods","drone","flying through a thunderstorm","post apocalypse","sex in a pool",2013,89021735,-1
+"37","Steve Buscemi",8.1,"Monsters, Inc.","friend","little girl","monster","rival","scream",2001,289907418,-4
+"38","Leonardo DiCaprio",7.5,"The Aviator","1920s","aviation","fight","spruce goose","test flight",2004,102608827,0
+"39","Hugh Jackman",7.1,"Real Steel","arena","boxing","boxing movie","robot","robot battle",2011,85463309,0
+"40","Bruce Willis",7.2,"Live Free or Die Hard","fbi","hacker","independence day","police","terrorist",2007,134520804,0
+"41","Liam Neeson",7.2,"Kingdom of Heaven","12th century","crusader","jerusalem","knight","medieval times",2005,47396698,0
+"42","Matt Damon",8.1,"The Martian","astronaut","international cooperation","left for dead","nasa","space habitat",2015,228430993,-1
+"43","Tom Cruise",7.7,"Minority Report","future","murder","neo noir","washington d.c.","year 2054",2002,132014112,-1
+"44","Johnny Depp",7,"Public Enemies","1930s","bank","celebrity criminal","fbi","public enemy number one",2009,97030725,-2
+"45","Denzel Washington",7.8,"American Gangster","death","heroin","popcorn","smuggling","vietnam",2007,130127620,-1
+"46","Leonardo DiCaprio",8.5,"Django Unchained","dynamite","historically inaccurate","ku klux klan","n word","slavery",2012,162804648,-1
+"47","Leonardo DiCaprio",8,"Blood Diamond","diamond","elephant","fisherman","rebel","sierra leone",2006,57366262,0
+"48","Leonardo DiCaprio",8.2,"The Wolf of Wall Street","based on true story","fellatio","female rear nudity","sex in an airplane","stockbroker",2013,116866727,0
+"49","Tom Hanks",7.5,"Cloud Atlas","composer","future","letter","nonlinear timeline","nursing home",2012,27098580,0
+"50","Leonardo DiCaprio",7.5,"Gangs of New York","butcher","civil war","gangster","new york city","revenge",2002,77679638,-3
+"51","Christian Bale",7.6,"The Flowers of War","abusive stepfather","attempted rape","food shortage","sexual abuse","starving child",2011,9213,-4
+"52","Tom Hanks",7.9,"Toy Story 2","collector","dog","friend","rescue","toy",1999,245823397,0
+"53","Leonardo DiCaprio",8.5,"The Departed","boston","mole","police","undercover","undercover cop",2006,132373442,0
+"54","Robert Downey Jr.",7,"Tropic Thunder","film director","parody","spoof","vietnam","written and directed by cast member",2008,110416702,-1
+"55","Bruce Willis",7.6,"Die Hard with a Vengeance","bomb","detective","new york city","police","terrorist",1995,100012500,-1
+"56","Robert Downey Jr.",7.6,"Sherlock Holmes","black magic","bridge construction","professor moriarty","scotland yard inspector","sherlock holmes",2009,209019489,1
+"57","Tom Cruise",7.1,"Valkyrie","american actor playing foreigner","assassination","conspiracy","military","nazis",2008,83077470,-1
+"58","Matthew McConaughey",7.4,"Contact","message from outer space","religion","religion versus science","scientist","universe",1997,100853835,0
+"59","Tom Hanks",7.7,"Cast Away","christmas","island","love","survival","talking to inanimate object",2000,233630478,0
+"60","Matt Damon",7.8,"The Bourne Supremacy","assassin","car chase","cia","hidden truth","one against many",2004,176049130,-1
+"61","Steve Buscemi",7.1,"Hotel Transylvania","dracula","hotel","invisible man","monster","transylvania",2012,148313048,-2
+"62","Anthony Hopkins",7.1,"Meet Joe Black","birthday","death","death personified","fear of death","wealth",1998,44606335,-4
+"63","Robert Downey Jr.",7.7,"Zodiac","cartoonist","reporter","serial killer","zodiac","zodiac killer",2007,33048353,-2
+"64","Tom Cruise",7.1,"Mission: Impossible","disguise","mission","spy","stealing","traitor",1996,180965237,-2
+"65","Leonardo DiCaprio",8.1,"Shutter Island","female prisoner","plot twist","self delusion","surprise ending","year 1954",2010,127968405,-4
+"66","Nicolas Cage",7.3,"Face/Off","death of child","face","face transplant","prison","terrorist",1997,112225777,-2
+"67","Tom Hanks",7.7,"Road to Perdition","1930s","blood","gun","on the run","revenge",2002,104054514,-1
+"68","Philip Seymour Hoffman",7.2,"Cold Mountain","civil war","mountain","soldier","well","wounded soldier",2003,95632614,1
+"69","Matt Damon",7,"Spirit: Stallion of the Cimarron","cavalry","escape","herd","stallion","wild stallion",2002,73215310,-1
+"70","Robin Williams",7,"What Dreams May Come","heaven","hell","soul","soul mate","suicide",1998,55350897,-1
+"71","Philip Seymour Hoffman",7.2,"Red Dragon","criminal profile","fbi agent","madman","tabloid reporter","tragic villain",2002,92930005,-3
+"72","Hugh Jackman",7.4,"X-Men","first part","mutant","professor","superhero","superhero team",2000,157299717,0
+"73","Nicolas Cage",7.4,"The Rock","alcatraz","fbi","general","hostage","rocket",1996,134006721,-1
+"74","Morgan Freeman",7.3,"Now You See Me","bank","fbi","heist","interpol","magician",2013,117698894,0
+"75","Tom Hanks",7.3,"The Terminal","airport","construction site","fish out of water","flight attendant","man without a country",2004,77032279,0
+"76","Philip Seymour Hoffman",7.1,"Charlie Wilson's War","afghanistan","arms dealer","based on true story","cia","texas",2007,66636385,0
+"77","Bruce Willis",7.1,"Die Hard 2","airport","fuel","plane","police","terrorist",1990,117541000,0
+"78","Steve Buscemi",8,"Big Fish","dog saved from a fire","flashback","growing up","multiple narrators","traveling salesman",2003,66257002,0
+"79","Leonardo DiCaprio",7.1,"Body of Lies","cia","jordan","middle east","spy","terrorist",2008,39380442,0
+"80","Tom Hanks",8.6,"Saving Private Ryan","army","invasion","killed in action","normandy","soldier",1998,216119491,-1
+"81","Keanu Reeves",8.7,"The Matrix","artificial reality","computer","matrix","questioning reality","simulated reality",1999,171383253,-1
+"82","Tom Hanks",7.6,"Apollo 13","cape kennedy","news footage","reference to christopher columbus","rocket","trapped in space",1995,172071312,-1
+"83","Hugh Jackman",7.6,"Les Misí©rables","barricade","innkeeper","parole","rebellion","student",2012,148775460,0
+"84","Tom Cruise",7.3,"Eyes Wide Shut","doctor","orgy","party","pianist","sexual fantasy",1999,55637680,0
+"85","Matthew McConaughey",7.1,"We Are Marshall","coach","football","football team","marshall university","university",2006,43532294,0
+"86","Gerard Butler",7.7,"300","battle","epic","greece","spartan","warrior",2006,210592590,0
+"87","Tom Hanks",8.5,"The Green Mile","1930s","death row inmate","healing","prison guard","southern u.s.",1999,136801374,-2
+"88","Matt Damon",7.9,"The Bourne Identity","amnesia","assassin","money","political thriller","three word title",2002,121468960,-1
+"89","Jason Statham",7,"The Italian Job","gold","heist","revenge","traffic jam","venice italy",2003,106126012,-1
+"90","Bruce Willis",7.1,"RED","cia","female assassin","interrogation","office cubicle","spy",2010,90356857,-1
+"91","Tom Cruise",7.6,"Collateral","city by night","contract killer","driving at night","los angeles california","taxi",2004,100003492,-1
+"92","Tom Cruise",7,"Jack Reacher","coma","mysterious villain","police chase","shooting range","sniper",2012,80033643,-1
+"93","Denzel Washington",7.7,"Man on Fire","bodyguard","journalist","kidnapping","mexico","police corruption",2004,77862546,-1
+"94","Morgan Freeman",7.8,"The Lego Movie","based on toy","dual personality","evil businessman","good cop bad cop","lego",2014,257756197,-1
+"95","Matt Damon",7.4,"Invictus","apartheid","nation","nelson mandela","president","rugby",2009,37479778,0
+"96","Philip Seymour Hoffman",7.9,"Almost Famous","band","magazine","rolling stone magazine","smoking marijuana","tour",2000,32522352,0
+"97","Keanu Reeves",7.5,"The Devil's Advocate","deal with the devil","lawyer","money","reality","supernatural power",1997,60984028,-1
+"98","Tom Hanks",8.8,"Forrest Gump","amputee","love","vietnam","vietnam war","war hero",1994,329691196,2
+"99","Robert De Niro",7,"Meet the Parents","cat","cia","jewish","male nurse","nurse",2000,166225040,0
+"100","Tom Hanks",7.9,"Captain Phillips","hijacking","hostage","leader","ship","somalia",2013,107100855,-1
+"101","Denzel Washington",7.2,"The Equalizer","assassin","ex soldier","gangster","hanged man","mysterious past",2014,101530738,-3
+"102","Denzel Washington",7.3,"Crimson Tide","alabama","mutiny","order","radio","submarine",1995,91400000,0
+"103","Robert De Niro",7.3,"Ronin","case","ex kgb","ronin","russian","suitcase",1998,41609593,0
+"104","Gerard Butler",7.4,"The Phantom of the Opera","based on stage musical based on novel","disfigurement","mask","opera","singer",2004,51225796,0
+"105","Johnny Depp",7,"Black Mass","based on true story","boston massachusetts","fbi agent","gangster","true crime",2015,62563543,-2
+"106","Gerard Butler",7.4,"Law Abiding Citizen","attorney","deal","district attorney","investigation","justice",2009,73343413,0
+"107","Leonardo DiCaprio",8,"Catch Me If You Can","attorney","cat and mouse","fbi","pan am","pilot",2002,164435221,-1
+"108","Robert De Niro",8.2,"Casino","car bomb","card cheat","cash","casino","gambling syndicate",1995,42438300,-2
+"109","Matt Damon",7.1,"The Adjustment Bureau","love at first sight","obscene finger gesture","rain","teleportation","three word title",2011,62453315,0
+"110","Tom Cruise",7.3,"Jerry Maguire","agent","career","client","fiance","sports agent",1996,153620822,0
+"111","Denzel Washington",7.6,"Inside Man","bank","detective","negotiation","police","robber",2006,88504640,0
+"112","Scarlett Johansson",7.1,"We Bought a Zoo","blocked road","father son relationship","love at first sight","teenage boy","zookeeper",2011,75621915,1
+"113","Philip Seymour Hoffman",7.6,"Moneyball","baseball","meeting","statistics","strategy","voice over",2011,75605492,0
+"114","Liam Neeson",7,"Non-Stop","air marshal","death","passenger","terrorist","transatlantic flight",2014,91439400,-1
+"115","Matt Damon",7,"Syriana","cia","hezbollah","lebanon","oil","prince",2005,50815288,0
+"116","Kevin Spacey",7.3,"The Negotiator","hostage","innocence","murder","negotiator","police",1998,44484065,-2
+"117","Robert Downey Jr.",7.4,"The Judge","courtroom","dysfunctional family","indiana","lawyer","trial",2014,47105085,0
+"118","Bill Murray",7.3,"The Life Aquatic with Steve Zissou","expedition","oceanographer","sea","shark","team",2004,24006726,-1
+"119","Kevin Spacey",7.5,"The Life of David Gale","activist","death","death row","murder","texas",2003,19593740,-3
+"120","Philip Seymour Hoffman",7.4,"Pirate Radio","inspired by radio program","inspired by true events","pirate broadcasting","pirate radio","pirate radio station",2009,7994115,0
+"121","Harrison Ford",8.3,"Indiana Jones and the Last Crusade","castle","diary","holy grail","map","nazi",1989,197171806,1
+"122","Kevin Spacey",7.4,"K-PAX","extraterrestrial","hospital","patient","planet","science",2001,50173190,0
+"123","Christian Bale",7.8,"3:10 to Yuma","outlaw","rancher","small western town","stagecoach","train",2007,53574088,-2
+"124","Morgan Freeman",7.4,"The Bucket List","billionaire","friend","hospital","list","mechanic",2007,93452056,0
+"125","Hugh Jackman",8.1,"Prisoners","child abduction","detective","investigation","police","sex offender",2013,60962878,-1
+"126","Denzel Washington",7.7,"Training Day","lapd","narc","narcotics","title spoken by character","training",2001,76261036,0
+"127","Kevin Spacey",7.2,"A Bug's Life","ant","circus","grasshopper","misunderstanding","overhearing",1998,162792677,-1
+"128","Leonardo DiCaprio",7.3,"Revolutionary Road","based on novel","children","connecticut","suburb","work",2008,22877808,0
+"129","Anthony Hopkins",7.1,"Nixon","courtship","election","paranoia","president","quaker",1995,13560960,-1
+"130","Harrison Ford",7.8,"The Fugitive","hospital","on the run","one armed man","surgeon","u.s. marshal",1993,183875760,0
+"131","Robert De Niro",7.5,"Sleepers","boy","guard","kicked in the crotch","prank","sexual abuse",1996,53300852,-1
+"132","Morgan Freeman",7,"Unleashed","collar","dog","fight","fighting","piano",2005,24520892,0
+"133","Nicolas Cage",7.6,"Lord of War","1980s","arms dealer","immorality","ukrainian","warlord",2005,24127895,-1
+"134","Bruce Willis",8.1,"The Sixth Sense","able to see the dead","ghost","plot twist","psychic","surprise ending",1999,293501675,-3
+"135","Kevin Spacey",7.4,"A Time to Kill","african american","court","law","mississippi","trial",1996,108706165,0
+"136","Tom Hanks",7.2,"A League of Their Own","baseball","friend","oregon","rivalry","softball",1992,107458785,-1
+"137","Keanu Reeves",7.5,"Bram Stoker's Dracula","dracula","horror movie remake","maze","monster sex","vampire",1992,82522790,-2
+"138","Harrison Ford",7.5,"42","baseball","baseball player","brooklyn dodgers","major league baseball","racism",2013,95001343,-1
+"139","Philip Seymour Hoffman",7.3,"The Talented Mr. Ripley","1950s","italy","mistaken identity","nudity","sociopath",1999,81292135,-1
+"140","Robert De Niro",7.2,"The Intern","reference to ben affleck","reference to brad pitt","reference to george clooney","reference to jack nicholson","website",2015,75274748,0
+"141","J.K. Simmons",7.1,"I Love You, Man","bromance","friend","gay brother","homosexual subtext","wedding",2009,71347010,0
+"142","Tom Hanks",7.6,"Bridge of Spies","cia","cold war","lawyer","negotiation","spy",2015,72306065,-1
+"143","Matthew McConaughey",7.3,"The Lincoln Lawyer","defense attorney","defense lawyer","lawyer","plot twist","prostitute",2011,57981889,-2
+"144","Christian Bale",8.5,"The Prestige","illusion","magician","obsession","rivalry","secret",2006,53082743,-2
+"145","Matt Damon",7.1,"The Rainmaker","courtroom","domestic violence","insurance company","lawyer","underdog",1997,45856732,-1
+"146","Anthony Hopkins",7.2,"Amistad","courtroom","mutiny","ship","slave ship","slave trade",1997,44175394,-2
+"147","Kevin Spacey",7.2,"Pay It Forward","alcoholism","boy","good deed","protective male","teacher",2000,33508922,1
+"148","Robert De Niro",7.4,"Mean Streets","bar","catholic guilt","epilepsy","italian american","money",1973,32645,-1
+"149","Bill Murray",7.8,"Fantastic Mr. Fox","cider","farm","farmer","fox","tale",2009,20999103,0
+"150","Denzel Washington",7.6,"The Hurricane","african american","book","boxer","boxing","murder",1999,50668906,-1
+"151","Sylvester Stallone",7.7,"Creed","boxing","boxing match","fight","montage","philadelphia",2015,109712885,0
+"152","J.K. Simmons",7,"Burn After Reading","cia","divorce","embassy","gym","memoir",2008,60338891,0
+"153","Denzel Washington",7,"John Q","health care","heart transplant","hospital","hostage","insurance",2002,71026631,-1
+"154","Matt Damon",7.7,"True Grit","arkansas","murder","sheriff","texas ranger","u.s. marshal",2010,171031347,-1
+"155","Robert De Niro",7.3,"Cape Fear","lawyer","neo noir","prison","rapist","southern gothic",1991,79100000,-2
+"156","Kevin Spacey",8.3,"L.A. Confidential","1950s","call girl","corruption","murder","police detective",1997,64604977,-2
+"157","Johnny Depp",7.5,"A Nightmare on Elm Street","freddy krueger","lucid dream","serial killer","slasher","sleep deprivation",1984,26505000,0
+"158","Tom Hanks",7.5,"Saving Mr. Banks","author","disney","loss of father","reference to walt disney","suppression of emotion",2013,83299761,-2
+"159","Denzel Washington",7.7,"Malcolm X","african american","black history","civil rights","ku klux klan","nation of islam",1992,48169908,0
+"160","Johnny Depp",7.8,"Donnie Brasco","fbi","mafia","money","racial slur","singer",1997,41954997,-1
+"161","Robert Downey Jr.",7.4,"Wonder Boys","based on novel","college girl","midlife crisis","pittsburgh pennsylvania","professor",2000,19389454,-1
+"162","Hugh Jackman",7.3,"The Fountain","eternity","love","mayan","tree","tree of life",2006,10139254,1
+"163","Tom Cruise",7.6,"A Few Good Men","cuba","guantanamo","lance corporal","lawyer","murder",1992,141340178,-1
+"164","Harrison Ford",8.4,"Star Wars: Episode VI - Return of the Jedi","death star","emperor","empire","princess","rebel",1983,309125409,-1
+"165","Bill Murray",7,"Scrooged","christmas","compassion","executive","ghost","redemption",1988,60328558,1
+"166","Robert De Niro",7.2,"Men of Honor","african american","amputee","navy","racial discrimination","racism",2000,48814909,-2
+"167","Harrison Ford",8.5,"Apocalypse Now","army","green beret","insanity","jungle","vietnam",1979,78800000,-1
+"168","Denzel Washington",7.3,"Flight","airline","flight","flight attendant","lawyer","pilot",2012,93749203,0
+"169","Bill Murray",8.1,"The Grand Budapest Hotel","first person narration","hotel","lobby boy","mentor protege relationship","painting",2014,59073773,0
+"170","Tom Hanks",8.3,"Toy Story","claw crane","cowboy","jealousy","rivalry","toy",1995,191796233,-2
+"171","Keanu Reeves",7.2,"Speed","bomb","bus","elevator","explosive","rescue",1994,121248145,-2
+"172","Morgan Freeman",8.6,"Se7en","detective","police partner","serial killer","serial murder","seven deadly sins",1995,100125340,-3
+"173","Scarlett Johansson",7,"The SpongeBob SquarePants Movie","based on tv series","crown","dream","king neptune","plankton",2004,85416609,0
+"174","Anthony Hopkins",7.5,"Legends of the Fall","epic","heart","killing an animal","passion","usa",1994,66528842,0
+"175","J.K. Simmons",7.4,"Up in the Air","airport","business trip","downsizing","on the road","travel",2009,83813460,0
+"176","Johnny Depp",7.6,"Blow","1960s","1970s","california","cocaine","wealth",2001,52937130,0
+"177","Gerard Butler",7.1,"P.S. I Love You","birthday","friendship","hairy chest","letter","widow",2007,53680848,0
+"178","Johnny Depp",7.4,"Corpse Bride","arranged marriage","bride","corpse","groom","woods",2005,53337608,0
+"179","Harrison Ford",7.2,"The Age of Adaline","hit by a pickup truck","immortality","paramedic","resuscitation","san francisco california",2015,42478175,0
+"180","Will Ferrell",7.6,"Stranger Than Fiction","author","fate","novelist","professor","writer",2006,40137776,0
+"181","Robert De Niro",7.6,"Midnight Run","accountant","bounty hunter","fbi","mafia","mob",1988,38413606,0
+"182","Morgan Freeman",7,"An Unfinished Life","abusive boyfriend","bear","car accident","ranch","wyoming",2005,8535575,-1
+"183","Denzel Washington",7.9,"Glory","army","black soldier","military uniform","prejudice","u.s. civil war",1989,26830000,-1
+"184","Robert De Niro",8.4,"Once Upon a Time in America","1920s","ambiguity","childhood friend","new york","speakeasy",1984,5300000,-1
+"185","Denzel Washington",7.5,"Cry Freedom","activist","editor","journalist","newspaper","south africa",1987,5899797,0
+"186","Robin Williams",8,"Aladdin","arab","genie","magic","princess","reference to a thousand and one nights",1992,217350219,1
+"187","Harrison Ford",7.6,"Indiana Jones and the Temple of Doom","children","studio logo segues into film","temple","village","white dinner jacket",1984,179870271,0
+"188","Bill Murray",7.6,"The Royal Tenenbaums","brother brother relationship","family relationships","father daughter relationship","genius","thrown through a window",2001,52353636,1
+"189","Harrison Ford",8.2,"Blade Runner","artificial intelligence","human android relationship","megacorporation","police detective","tech noir",1982,27000000,-1
+"190","Scarlett Johansson",7.8,"The Jungle Book","fire","jungle","remake","tiger","wolf",2016,362645141,0
+"191","Bruce Willis",7.8,"Lucky Number Slevin","coroner","death","gay son","love","mistaken identity",2006,22494487,-1
+"192","Tom Cruise",8,"Rain Man","buick","convertible","last will and testament","savant","travel",1988,172825435,0
+"193","Liam Neeson",7.9,"Taken","agent","cia","france","rescue","teenage abduction",2008,145000989,0
+"194","Liam Neeson",8.9,"Schindler's List","german","german soldier","jew","jewish","nazi",1993,96067179,0
+"195","Robert De Niro",7.9,"The Untouchables","corrupt judge","tax evasion","tough cop","white suit","year 1930",1987,76270454,-2
+"196","Johnny Depp",7.8,"Finding Neverland","boy","inspiration","reference to peter pan","stage play","widow",2004,51676606,0
+"197","Robert De Niro",8.7,"Goodfellas","betrayal","gangster","mafia","organized crime","robbery",1990,46836394,-3
+"198","Robin Williams",7.5,"August Rush","baby","cellist","genius","prodigy","rhapsody",2007,31655091,2
+"199","Morgan Freeman",9.3,"The Shawshank Redemption","escape from prison","first person narration","prison","prison cell search","wrongful imprisonment",1994,28341469,-5
+"200","Hugh Jackman",7.5,"Eddie the Eagle","1988 winter olympics","coach","ski jumper","winter","winter olympics",2016,15785632,0
+"201","Anthony Hopkins",7.9,"The World's Fastest Indian","mortgage","motorcycle","speed","trailer","utah",2005,5128124,0
+"202","Keanu Reeves",7.7,"Dangerous Liaisons","catholic","corruption","emotional abuse","france","seduction",1988,34700000,-3
+"203","Sylvester Stallone",7.2,"Rocky Balboa","boxing","fight","heavyweight champion","restaurant","retired boxer",2006,70269171,1
+"204","Will Ferrell",7.2,"Old School","college","fraternity","friend","house","party",2003,74608545,0
+"205","Christian Bale",8.2,"Howl's Moving Castle","anime","castle","demon","steampunk","witch",2004,4710455,-1
+"206","Harrison Ford",8.8,"Star Wars: Episode V - The Empire Strikes Back","duel","famous twist","rebel","rescue","snowy landscape",1980,290158751,-1
+"207","Scarlett Johansson",8,"Her","divorce","female frontal nudity","future","loneliness","operating system",2013,25556065,-1
+"208","Hugh Jackman",7.5,"Eddie the Eagle","1988 winter olympics","coach","ski jumper","winter","winter olympics",2016,15785632,0
+"209","Anthony Hopkins",7.4,"Shadowlands","author","book","england","friend","oxford",1993,25842000,0
+"210","Harrison Ford",8.5,"Raiders of the Lost Ark","archeological dig","archeologist","ark of the covenant","egypt","nazi",1981,242374454,1
+"211","Anthony Hopkins",8.6,"The Silence of the Lambs","case file","fbi agent","psycho thriller","psychopath","serial killer",1991,130727000,-1
+"212","Johnny Depp",7.9,"Edward Scissorhands","creation","inventor","magical realism","scissors","suburb",1990,56362352,0
+"213","Philip Seymour Hoffman",7.5,"Doubt","boy","catholic","nun","priest","student",2008,33422556,0
+"214","Jason Statham",7.3,"The Bank Job","chase","heist","london england","mobster","safe deposit",2008,30028592,0
+"215","Robert De Niro",7.2,"Everybody's Fine","bus trip","parental love","retirement","surprise visit","train ride",2009,8855646,1
+"216","Robert Downey Jr.",7.1,"A Scanner Darkly","detective","drugs","substance d","undercover","undercover cop",2006,5480996,0
+"217","Gerard Butler",7.2,"Chasing Mavericks","box office flop","no opening credits","surfing","two word title","year 1987",2012,6002756,0
+"218","Christian Bale",7,"I'm Not There.","1960s","actor","horseback riding","reporter","riding the rails",2007,4001121,0
+"219","Philip Seymour Hoffman",7.5,"Synecdoche, New York","actress","director","play","theatre director","warehouse",2008,3081925,0
+"220","Christian Bale",7.5,"Equilibrium","cleric","dystopia","fascist","law","neo noir",2002,1190018,-1
+"221","Liam Neeson",7,"The Bounty","lieutenant","lifeboat","mutiny","sailing ship","ship",1984,8600000,0
+"222","Nicolas Cage",7.7,"Adaptation.","book","orchid","screenwriter","thief","twin",2002,22245861,0
+"223","Johnny Depp",7.7,"Fear and Loathing in Las Vegas","american dream","convertible","drugs","journalist","lawyer",1998,10562387,0
+"224","Tom Hanks",7.3,"Big","friend","job","new york city","toy","wish",1988,114968774,0
+"225","Will Ferrell",7,"Austin Powers: International Man of Mystery","cartoon on tv","reference to frankenstein","reference to jimi hendrix","scene during end credits","surrealism",1997,53868030,0
+"226","Denzel Washington",7.9,"Glory","army","black soldier","military uniform","prejudice","u.s. civil war",1989,26830000,-1
+"227","Robert De Niro",8.3,"Raging Bull","boxing","domestic violence","hot temper","jealousy","rage",1980,45250,-3
+"228","Johnny Depp",7.9,"Ed Wood","1950s","director","friend","friendship","transvestism",1994,5887457,0
+"229","Robin Williams",8,"Dead Poets Society","education","english teacher","poet","professor","student",1989,95860116,0
+"230","Bruce Willis",7.8,"Moonrise Kingdom","1960s","boy scouts","boy scouts camp","coming of age","young love",2012,45507053,1
+"231","Scarlett Johansson",7.2,"Vicky Cristina Barcelona","art","artist","painter","sex","summer",2008,23213577,0
+"232","Denzel Washington",7.7,"Philadelphia","aids","city name in title","gay","homophobia","lawyer",1993,77324422,0
+"233","Bill Murray",7.4,"Tootsie","actor","actress","friend","love","reputation",1982,177200000,1
+"234","Kevin Spacey",8.4,"American Beauty","domestic violence","drug dealer","homosexuality","midlife crisis","unfaithfulness",1999,130058047,-1
+"235","Christian Bale",7.3,"Little Women","civil war","female protagonist","post civil war","reference to friedrich schiller","u.s. civil war",1994,50003300,0
+"236","Robert De Niro",7.1,"Wag the Dog","death","election","hollywood","president","scandal",1997,43022524,-2
+"237","Denzel Washington",7.6,"The Great Debaters","college","debate","student","texas","wiley college",2007,30226144,0
+"238","Scarlett Johansson",7.7,"Match Point","extramarital affair","infidelity","irony of fate","surprise ending","tennis",2005,23089926,-1
+"239","Anthony Hopkins",7.9,"The Remains of the Day","butler","housekeeper","manor","servant","service",1993,22954968,0
+"240","Robert De Niro",8,"Brazil","black comedy","bureaucracy","dream","terrorist","wrongful arrest",1985,9929000,-1
+"241","Philip Seymour Hoffman",8.2,"The Big Lebowski","death","drug","nihilism","rug","white russian",1998,17439163,-1
+"242","Robert Downey Jr.",7.6,"Kiss Kiss Bang Bang","actor","detective sergeant","hotel","nightclub","thief",2005,4235837,0
+"243","Bill Murray",8.1,"Groundhog Day","cult film","existentialism","groundhog day","time loop","trapped in a time loop",1993,70906973,-1
+"244","Tom Cruise",7.2,"Born on the Fourth of July","desert","drunkenness","religious mother","strict mother","vietnam war",1989,70001698,-2
+"245","Keanu Reeves",7.7,"Dangerous Liaisons","catholic","corruption","emotional abuse","france","seduction",1988,34700000,-3
+"246","Anthony Hopkins",7,"Bobby","campaign","chess","friend","hotel","senator",2006,11204499,0
+"247","Robin Williams",7.3,"Good Morning, Vietnam","disc jockey","friendship","radio","vietnam","vietnamese",1987,123922370,0
+"248","Robert De Niro",9,"The Godfather: Part II","1950s","corrupt politician","lake tahoe nevada","melancholy","revenge",1974,57300000,-3
+"249","Bill Murray",7.3,"St. Vincent","bullying","grumpy old man","school presentation","stroke","stroke recovery",2014,44134898,-2
+"250","Steve Buscemi",7.3,"Paris, je t'aime","baby","divorce","oscar wilde","pigalle","tourist",2006,4857376,0
+"251","Denzel Washington",7.3,"Antwone Fisher","black american","extortion","navy","psychiatrist","sailor",2002,21078145,-1
+"252","Kevin Spacey",7.8,"Glengarry Glen Ross","office","pressure","real estate","robbery","sales",1992,10725228,0
+"253","Harrison Ford",7.4,"Witness","amish","love","murder","police","train",1985,65500000,0
+"254","Robert De Niro",7.5,"Jackie Brown","arms dealer","atf","bail","money","multiple perspectives",1997,39647595,0
+"255","Matt Damon",7.4,"Rounders","breasts","cult film","loan shark","poker","reference to christy turlington",1998,22905674,-1
+"256","Jason Statham",7,"Crank","assassin","cult film","doctor","heart","poison",2006,27829874,-2
+"257","Scarlett Johansson",7,"Girl with a Pearl Earring","17th century","girl","maid","painter","painting",2003,11634362,0
+"258","Robert Downey Jr.",7,"Charlie Bartlett","drugs","high school","prescription drugs","private school","student",2007,3950294,0
+"259","Jason Statham",8.3,"Snatch","boxer","boxing","diamond","fight","gypsy",2000,30093107,0
+"260","Harrison Ford",8.7,"Star Wars: Episode IV - A New Hope","death star","empire","galactic war","princess","rebellion",1977,460935665,-1
+"261","Christian Bale",7.9,"The Fighter","boxer","boxing","boxing match","crack cocaine","lowell massachusetts",2010,93571803,-1
+"262","Matthew McConaughey",7.3,"Frailty","demon","fbi","fbi agent","murder","religious fanatic",2001,13103828,-3
+"263","Liam Neeson",7.1,"Kinsey","professor","research","sex","sexuality","student",2004,10214647,0
+"264","Johnny Depp",7.8,"What's Eating Gilbert Grape","apostrophe in title","face slap","four word title","grocery store","police",1993,9170214,-1
+"265","Robin Williams",8.3,"Good Will Hunting","friend","genius","janitor","loss of wife","professor",1997,138339411,0
+"266","Tom Cruise",7,"The Color of Money","hustler","losing","pool","pool player","tournament",1986,52293982,-2
+"267","Jason Statham",8.3,"Snatch","boxer","boxing","diamond","fight","gypsy",2000,30093107,0
+"268","Matt Damon",7.4,"Dogma","abortion","abortion clinic","angel","church","clinic",1999,30651422,1
+"269","Tom Cruise",7.2,"The Outsiders","dysfunctional family","gang","greaser","holding someone's head underwater","rivalry",1983,25600000,-1
+"270","Bill Murray",7.7,"Rushmore","coming of age","friendship","private school","student","teacher",1998,17096053,0
+"271","Matthew McConaughey",7.4,"Mud","14 year old","boat","bounty hunter","boy","river",2012,21589307,0
+"272","Christian Bale",7.3,"Rescue Dawn","bombing","guard","jungle","laos","prisoner",2006,5484375,-1
+"273","Philip Seymour Hoffman",7.2,"Owning Mahowny","bank","bank fraud","bank manager","gambling","toronto",2003,1011054,-1
+"274","Robert Downey Jr.",7.5,"Richard III","1930s","abuse of power","england","king","murder",1995,2600000,-2
+"275","Philip Seymour Hoffman",7.2,"The Savages","arizona","dementia","married man","sun city arizona","writing",2007,6610326,0
+"276","Christian Bale",7,"Velvet Goldmine","1970s","glitter","political cover up","reference to katharine hepburn","reference to spencer tracy",1998,1043487,1
+"277","Bruce Willis",8.9,"Pulp Fiction","black comedy","cunnilingus","neo noir","nonlinear timeline","postmodern",1994,107930000,0
+"278","Keanu Reeves",7.4,"Much Ado About Nothing","16th century","bachelor","dishonor","masquerade party","wedding",1993,22551000,-1
+"279","Matt Damon",7,"Syriana","cia","hezbollah","lebanon","oil","prince",2005,50815288,0
+"280","Christian Bale",7.6,"American Psycho","1980s","business card","male rear nudity","materialism","narcissism",2000,15047419,0
+"281","Anthony Hopkins",7.5,"Howards End","england","friendship","prejudice","upper class","working class",1992,25967000,-1
+"282","Morgan Freeman",7.4,"Driving Miss Daisy","1950s","african american","jewish","old age","widow",1989,106593296,0
+"283","J.K. Simmons",7.6,"Thank You for Smoking","cigarette smoking","lobbyist","political satire","reporter","tobacco industry",2005,24792061,0
+"284","Keanu Reeves",7,"The Neon Demon","beauty","cannibalism","fashion","lesbian","model",2016,1330827,1
+"285","J.K. Simmons",7.5,"Juno","adoption","baby","friend","pregnancy","school",2007,143492840,0
+"286","Leonardo DiCaprio",7.3,"The Great Gatsby","ingratitude","mansion","party","title appears in writing","tragedy",2013,144812796,-2
+"287","Robert Downey Jr.",7.5,"Good Night, and Good Luck.","cbs","expose","fear","paranoia","reporter",2005,31501218,-2
+"288","Philip Seymour Hoffman",7.4,"Capote","book","holcomb kansas","kansas","killer","truman capote",2005,28747570,-1
+"289","Bill Murray",7.5,"Michael Jordan to the Max","basketball","basketball player","character name in title","chicago bulls","imax",2000,18642318,0
+"290","Bill Murray",7.1,"Get Low","funeral","funeral home","hermit","party","secret",2009,9176553,0
+"291","Steve Buscemi",7.2,"The Messenger","captain","casualty notification","casualty notification team","sergeant","staff sergeant",2009,66637,-2
+"292","Johnny Depp",8.1,"Platoon","1960s","famous score","hero","vietnam","vietnam war",1986,137963328,1
+"293","Bill Murray",7.4,"Caddyshack","caddy","country club","golf course","gopher","nudity",1980,39800000,0
+"294","Kevin Spacey",8.6,"The Usual Suspects","criminal","dirty cop","flashback","limping","suspect",1995,23272306,-3
+"295","J.K. Simmons",7.1,"The Words","american in paris","book","love","novel","writer",2012,11434867,1
+"296","Scarlett Johansson",7.4,"Ghost World","art class","diner","friend","graduation","high school",2001,6200756,0
+"297","Matthew McConaughey",8,"Dallas Buyers Club","drugs","fda","gay community","hiv","homophobia",2013,27296514,0
+"298","Matthew McConaughey",7.6,"Lone Star","father son relationship","interracial relationship","neo western","sheriff","texas",1996,13269963,0
+"299","Kevin Spacey",7.9,"Moon","computer","contract","earth","moon","solitude",2009,5009677,0
+"300","Christian Bale",7.7,"The Machinist","alienation","conscience","insomnia","paranoia","urban gothic",2004,1082044,-3
+"301","Gerard Butler",7.8,"Dear Frankie","boy","dock","letter","seaside","stranger",2004,1340891,-1
+"302","Philip Seymour Hoffman",7.7,"25th Hour","bar","dream","drug dealing","nightclub","widower",2002,13060843,0
+"303","Scarlett Johansson",7.8,"Lost in Translation","fish out of water","japanese","loneliness","older man younger woman relationship","unlikely friendship",2003,44566004,-2
+"304","Nicolas Cage",7.6,"Leaving Las Vegas","alcoholic","bar","love","prostitute","sex",1995,31968347,1
+"305","Morgan Freeman",7.6,"March of the Penguins","chick","emperor penguin","journey","ocean","penguin",2005,77413017,0
+"306","Kevin Spacey",7.1,"Margin Call","capital management","financial crisis","financial disaster","investment fraud","management",2011,5354039,-3
+"307","J.K. Simmons",8.5,"Whiplash","conservatory","drummer","emotional abuse","music school","obsession",2014,13092000,-2
+"308","Matthew McConaughey",7.1,"Thirteen Conversations About One Thing","attorney","happiness","house cleaner","physics","professor",2001,3287435,0
+"309","Philip Seymour Hoffman",7.8,"Happiness","ensemble cast","episodic structure","satire","social satire","suburb",1998,3000000,0
+"310","Keanu Reeves",7.1,"My Own Private Idaho","friend","hustler","italy","narcolepsy","traveling",1991,6401336,-1
+"311","Matt Damon",8.3,"Inside Job","florida","iceland","interview","new york city new york","recession",2010,4311834,-1
+"312","J.K. Simmons",7,"Harsh Times","blood splatter","friend","lapd","mexican","violence",2005,3335839,-1
+"313","Robin Williams",7,"House of D","artist","butchery","catholic","catholic school","friend",2004,371081,-1
+"314","Keanu Reeves",7.1,"River's Edge","death","friend","high school","murder","police",1986,4600000,-2
+"315","Johnny Depp",7.5,"A Nightmare on Elm Street","freddy krueger","lucid dream","serial killer","slasher","sleep deprivation",1984,26505000,0
+"316","Tom Cruise",7,"Jack Reacher","coma","mysterious villain","police chase","shooting range","sniper",2012,80033643,-1
+"317","Jason Statham",8.2,"Lock, Stock and Two Smoking Barrels","antique","cockney accent","hatchet","money","shotgun",1998,3650677,0
+"318","Steve Buscemi",7.2,"Trees Lounge","alcoholic drink","bar","drink","drinking","drunk",1996,695229,-1
+"319","Bruce Willis",7.8,"Lucky Number Slevin","coroner","death","gay son","love","mistaken identity",2006,22494487,-1
+"320","Sylvester Stallone",8.1,"Rocky","boxer","hometown hero","philadelphia pennsylvania","protective male","training",1976,117235247,1
+"321","J.K. Simmons",7.5,"Juno","adoption","baby","friend","pregnancy","school",2007,143492840,0
+"322","Harrison Ford",7.5,"American Graffiti","california","car","drag racing","high school","rock 'n' roll",1973,115000000,-1
+"323","Matt Damon",7.3,"Chasing Amy","comic book","friendship","gay","lesbian","secret",1997,12006514,0
